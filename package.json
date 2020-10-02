@@ -1,0 +1,19 @@
+{
+  "name": "nodejs-web-server",
+  "version": "1.0.0",
+  "description": "A static web server served by ExpressJS a NodeJS framework.",
+  "main": "index.js",
+  "scripts": {
+    "start": "index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tivie001/nodeJS-static-web-server.git"
+  },
+  "author": "Tyler Ivie",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tivie001/nodeJS-static-web-server/issues"
+  },
+  "homepage": "https://github.com/tivie001/nodeJS-static-web-server#readme"
+}
