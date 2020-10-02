@@ -1,1 +1,1 @@
-# nodeJS-static-web-server
+# NodeJS Static Web Server
