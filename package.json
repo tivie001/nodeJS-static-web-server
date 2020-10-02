@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/tivie001/nodeJS-static-web-server/issues"
   },
-  "homepage": "https://github.com/tivie001/nodeJS-static-web-server#readme"
+  "homepage": "https://github.com/tivie001/nodeJS-static-web-server#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
