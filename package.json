@@ -4,7 +4,7 @@
   "description": "A static web server served by ExpressJS a NodeJS framework.",
   "main": "index.js",
   "scripts": {
-    "start": "index.js"
+    "start": "node index.js"
   },
   "repository": {
     "type": "git",
